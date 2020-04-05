@@ -1,0 +1,19 @@
+﻿{
+  "http_test_host": "api.ipify.org",
+  "http_test_port": "80",
+  "http_timeout": "3000",
+  "ping_count": "10",
+  "ping_timeout": "3000",
+  "ping_packet_delay": "0",
+  "ping_hosts": [ "8.8.8.8", "1.1.1.1" ],
+  "measure_delay": "60000",
+  "cui_output": "true",
+  "router_ip": "192.168.1.1",
+  "nq_max_loss": "0,1",
+  "tg_token": "YOUR_TOKEN_HERE",
+  "tg_chat_id": "YOUR_CHAT_HERE",
+  "tg_notify": "false",
+  "out_file": "main.csv",
+  "w_csv": "true",
+  "out_format": "FTIME;IUP;HTTP;AVGRTT;ROUTERRTT;LOSS;MID;SEQ;STIME;;RN"
+}
