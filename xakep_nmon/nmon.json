@@ -10,9 +10,9 @@
   "cui_output": "true",
   "router_ip": "192.168.1.1",
   "nq_max_loss": "0,1",
-  "tg_token": "805960604:AAE8tbtazmPc1aFX13pkBD4k3WS933RnuI4",
-  "tg_chat_id": "@gtmtestgroupb",
-  "tg_notify": "true",
+  "tg_token": "",
+  "tg_chat_id": "",
+  "tg_notify": "false",
   "out_file": "main.csv",
   "w_csv": "true",
   "out_format": "FTIME;IUP;HTTP;AVGRTT;ROUTERRTT;LOSS;MID;SEQ;STIME;;RN"
